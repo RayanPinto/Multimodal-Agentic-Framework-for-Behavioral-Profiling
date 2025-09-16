@@ -42,7 +42,7 @@ A comprehensive real-time behavioral analysis system that combines computer visi
 numpy>=1.24.0
 opencv-python>=4.8.0
 mediapipe>=0.10.0
-tensorflow-macos>=2.13.0
+tensorflow>=2.13.0
 tf-keras>=2.13.0
 deepface>=0.0.79
 
